@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://luchoguti.github.io/csb-1hdlkd/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://luchoguti.github.io/csb-1hdlkd/static/js/main.82eaf55a.chunk.js",
+    "main.js.map": "https://luchoguti.github.io/csb-1hdlkd/static/js/main.82eaf55a.chunk.js.map",
+    "runtime-main.js": "https://luchoguti.github.io/csb-1hdlkd/static/js/runtime-main.44231d6f.js",
+    "runtime-main.js.map": "https://luchoguti.github.io/csb-1hdlkd/static/js/runtime-main.44231d6f.js.map",
+    "static/js/2.d96fa6f0.chunk.js": "https://luchoguti.github.io/csb-1hdlkd/static/js/2.d96fa6f0.chunk.js",
+    "static/js/2.d96fa6f0.chunk.js.map": "https://luchoguti.github.io/csb-1hdlkd/static/js/2.d96fa6f0.chunk.js.map",
+    "index.html": "https://luchoguti.github.io/csb-1hdlkd/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://luchoguti.github.io/csb-1hdlkd/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.d96fa6f0.chunk.js.LICENSE.txt": "https://luchoguti.github.io/csb-1hdlkd/static/js/2.d96fa6f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44231d6f.js",
+    "static/js/2.d96fa6f0.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.82eaf55a.chunk.js"
+  ]
+}
